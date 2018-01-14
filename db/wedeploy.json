@@ -1,5 +1,5 @@
 {
-	"id": "db",
+	"id": "pubmedmysql",
 	"image": "mysql:5.5",
 	"volume": "/var/lib/mysql",
 	"env": {
